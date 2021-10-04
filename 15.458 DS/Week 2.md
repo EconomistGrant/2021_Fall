@@ -30,6 +30,7 @@ desribes informatopm structires amd relationships
 
 "above the line": uniquely determine 
 
+<<<<<<< HEAD
 # Entity, Attributes, and relationships
 entity: object, concept, perseon, or thing about which information is recorded
 attribute: property of or fact about an entity
@@ -55,3 +56,5 @@ forecast: prediction of future value
 # Strategy: betting against beta
 low beta outperfom CAPM and high beta unerperform CAPM
 actual SML flatter than theoretical
+=======
+>>>>>>> 9a28504f567141e840f55dd58568b60513f6c65b
