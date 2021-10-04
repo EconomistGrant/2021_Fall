@@ -1,0 +1,6 @@
+[ODBC]
+DRIVER=SQL SERVER
+SERVER=hedge.mit.edu
+UID=student2020
+DATABASE=crispy
+Description=Database crispy on hedge.mit.edu
